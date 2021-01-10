@@ -8,11 +8,11 @@
       <nav class="navigation">
         <ul class="menu">
           <li><a href="<?php echo site_url() ?>">Home</a></li>
-          <li><a href="/Personal/about-me">About Me</a></li>
-          <li><a href="/Personal/services">Services</a></li>
-          <li><a href="/Personal/portfolio">Portfolio</a></li>
-          <li><a href="/Personal/blog">Blog</a></li>
-          <li><a href="/Personal/contact">Contact</a></li>
+          <li><a href="/about-me">About Me</a></li>
+          <li><a href="/services">Services</a></li>
+          <li><a href="/portfolio">Portfolio</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/contact">Contact</a></li>
         </ul>
       </nav>
     </header>
