@@ -111,6 +111,23 @@ get_header(); ?>
     <img class="animated project-image left-image" src="../wp-content/themes/personaltheme/images/p6.png" alt="Picture of Project 6">
   </div>
 
+  <div class="row1">
+    <img class="animated project-image big" src="../wp-content/themes/personaltheme/images/p7.png" alt="Picture of Project 7">
+    <div class="animated project-text">
+      <h5>Drupal Pet Adoption Agency Website</h5>
+      <div>
+        <h6>Technologies:</h6>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Drupal</li>        
+        </ul>
+      </div>
+      <a class="btn-grad" href="https://pa.annafoldvari.co.uk" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      <a class="btn-grad" href="https://github.com/annafoldvari/pet_adoption" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
+    </div>
+  </div>
+
 </main>
 
 
