@@ -15,6 +15,14 @@ function pagination_nav() {
           <div class="nav-previous"><?php next_posts_link( '&larr; Older posts' ); ?></div>
           <div class="nav-next"><?php previous_posts_link( 'Newer posts &rarr;' ); ?></div>
       </nav>
+
+      
 <?php }
 }
+
+function register_my_menu() {
+  register_nav_menu('header-menu',__( 'Header Menu' ));
+}
+
+add_action( 'init', 'register_my_menu' );
 

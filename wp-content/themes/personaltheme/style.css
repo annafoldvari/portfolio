@@ -193,6 +193,10 @@ body {
   border-bottom: solid 3px #D896FF;
 }
 
+.menu li.current_page_item a {
+  color: #ab0de0;
+}
+
 
 html {
   font-family: "didot";
